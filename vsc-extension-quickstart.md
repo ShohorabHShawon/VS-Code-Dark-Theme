@@ -20,7 +20,7 @@ Welcome to **B3ast Dark Theme** – a customizable dark theme for Visual Studio 
 
 ### 2. **From VSIX file (Local Installation)**
 
-1. Download the latest `.vsix` file of the theme from [GitHub](#https://github.com/ShohorabHShawon/VS-Code-Dark-Theme.git) or a trusted source.
+1. Download the latest `.vsix` file of the theme from [GitHub](https://github.com/ShohorabHShawon/VS-Code-Dark-Theme.git) or a trusted source.
 2. In **VS Code**, open the **Extensions** view (`Ctrl+Shift+X` / `Cmd+Shift+X`).
 3. Click on the ellipsis (`...`) at the top-right of the Extensions view.
 4. Choose **Install from VSIX...** and select the downloaded `.vsix` file.
