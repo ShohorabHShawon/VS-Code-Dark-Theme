@@ -3,6 +3,10 @@
   "displayName": "B3ast Dark Theme",
   "description": "Dark Theme for late night date with code and coffee 😊",
   "publisher": "ShohorabHShawon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShohorabHShawon/VS-Code-Dark-Theme.git"
+  },
   "galleryBanner": {
     "color": "#212121",
     "theme": "dark"
@@ -75,5 +79,6 @@
   },
   "scripts": {
     "release": "standard-version"
-  }
+  },
+  "license": "MIT"
 }

@@ -73,3 +73,26 @@ To modify or contribute to this theme:
 4. Test your theme by running the extension locally:
 
    - Press `F5` to open a new VS Code window with the extension enabled.
+
+## Publishing
+
+To publish your theme extension:
+
+1. Bump the version in `package.json`.
+2. Ensure your `CHANGELOG.md` is up to date.
+3. Run the following commands:
+
+   ```bash
+   vsce package
+   vsce publish
+   ```
+
+Follow [this guide](https://code.visualstudio.com/api/working-with-extensions/publishing-extension) for more detailed steps.
+
+## Support
+
+For any issues, suggestions, or feature requests, feel free to [open an issue](#link-to-issue-tracker).
+
+## License
+
+This theme is licensed under the [MIT License](LICENSE).
