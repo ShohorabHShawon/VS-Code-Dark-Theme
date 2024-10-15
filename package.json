@@ -1,0 +1,79 @@
+{
+  "name": "b3ast",
+  "displayName": "B3ast Dark Theme",
+  "description": "Dark Theme for late night date with code and coffee 😊",
+  "publisher": "ShohorabHShawon",
+  "galleryBanner": {
+    "color": "#212121",
+    "theme": "dark"
+  },
+  "icon": "images/icon.png",
+  "keywords": [
+    "dark",
+    "theme",
+    "coffee",
+    "b3ast",
+    "night",
+    "night theme",
+    "dark theme",
+    "dark coffee",
+    "dark night",
+    "dark night theme",
+    "best dark theme",
+    "best dark theme for vscode",
+    "best theme",
+    "b3ast dark theme",
+    "b3ast coffee",
+    "b3ast theme",
+    "shohorabhshawon",
+    "shohorab",
+    "shawon",
+    "shohorab h shawon",
+    "shawon hossain shawon",
+    "shawon hossain",
+    "Javascript Theme",
+    "Javascript",
+    "JS",
+    "JS Theme",
+    "JS Dark Theme",
+    "JS Night Theme",
+    "JS Coffee Theme",
+    "Night Theme",
+    "Coffee Theme"
+  ],
+  "version": "0.1.8",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "B3ast Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/B3ast Dark-color-theme.json"
+      },
+      {
+        "label": "B3ast Coffee",
+        "uiTheme": "vs-dark",
+        "path": "./themes/B3ast Coffee-color-theme.json"
+      },
+      {
+        "label": "B3ast Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/B3ast Dark Purple-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "workbench.colorTheme": "B3ast Dark"
+    }
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  },
+  "scripts": {
+    "release": "standard-version"
+  }
+}
