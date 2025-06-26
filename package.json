@@ -1,7 +1,7 @@
 {
   "name": "b3ast",
   "displayName": "B3ast Dark Theme",
-  "description": "Dark Theme for late night date with code and coffee 😊",
+  "description": "Dark as your midnight coffee, powerful as your code - the perfect theme for unleashing your inner B3ast ☕💪",
   "publisher": "ShohorabHShawon",
   "repository": {
     "type": "git",
@@ -45,7 +45,7 @@
     "Night Theme",
     "Coffee Theme"
   ],
-  "version": "1.0.1",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -60,7 +60,7 @@
         "path": "./themes/B3ast Dark-color-theme.json"
       },
       {
-        "label": "B3ast Coffee",
+        "label": "B3ast Coffee 2.0",
         "uiTheme": "vs-dark",
         "path": "./themes/B3ast Coffee-color-theme.json"
       },
