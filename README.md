@@ -6,10 +6,10 @@ This is a custom dark theme extension for Visual Studio Code designed to provide
 
 ## Features
 
-- **Elegant Color Scheme:** A well-balanced palette that emphasizes syntax highlighting.
+- **Elegant Color Scheme:** A well-balanced palette emphasizing syntax highlighting.
 - **Customizable Settings:** Adjust various theme settings to suit your preferences.
-- **Support for Multiple Languages:** The theme is optimized for a wide range of programming languages.
-- **Consistent UI Elements:** Provides a cohesive look across the entire Visual Studio Code interface.
+- **Support for Multiple Languages:** The theme is optimized for various programming languages.
+- **Consistent UI Elements:** Provides a cohesive look across the Visual Studio Code interface.
 
 ## Installation
 
