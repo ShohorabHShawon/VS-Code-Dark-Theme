@@ -45,7 +45,7 @@
     "Night Theme",
     "Coffee Theme"
   ],
-  "version": "2.0.1",
+  "version": "2.2.2",
   "engines": {
     "vscode": "^1.94.0"
   },
