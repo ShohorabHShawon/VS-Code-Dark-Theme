@@ -45,7 +45,7 @@
     "Night Theme",
     "Coffee Theme"
   ],
-  "version": "2.0.0",
+  "version": "2.0.1",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -55,17 +55,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "B3ast Dark",
+        "label": "B3ast Dark v2",
         "uiTheme": "vs-dark",
         "path": "./themes/B3ast Dark-color-theme.json"
       },
       {
-        "label": "B3ast Coffee 2.0",
+        "label": "B3ast Dark Coffee v2",
         "uiTheme": "vs-dark",
         "path": "./themes/B3ast Coffee-color-theme.json"
       },
       {
-        "label": "B3ast Purple",
+        "label": "B3ast Purple v2",
         "uiTheme": "vs-dark",
         "path": "./themes/B3ast Dark Purple-color-theme.json"
       }
